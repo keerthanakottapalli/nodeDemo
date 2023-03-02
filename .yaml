@@ -1,0 +1,13 @@
+
+---
+components:
+  schema:
+    movies:
+      type:
+        objectproperties:
+            id:
+                type: integer
+            name: 
+                type: string
+            age:
+                type: integer
